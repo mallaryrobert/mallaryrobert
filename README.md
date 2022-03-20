@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mallaryrobert
 - 👀 I’m interested in web design & UI/UX design
 - 🌱 I’m currently learning graphic design, web design, and UI/UX desgn
-- 💞️ I’m looking to collaborate on ... ---
+- 💞️ I’m looking to collaborate on experience buildingn opportunities
 - 📫 How to reach me ... --
 
 <!---
